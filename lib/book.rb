@@ -1,2 +1,2 @@
-
-
+def initialize (title)
+end
